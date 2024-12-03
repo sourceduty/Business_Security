@@ -58,6 +58,10 @@ In this context, the approach to privacy involves employing advanced encryption 
 ![Thunderball](https://github.com/user-attachments/assets/43707f59-4db0-49fe-91ab-ac3fa6cb8719)
 
 #
+
+Alex: "*Security is being smart.*"
+
+#
 ### Related Links
 
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
