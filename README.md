@@ -8,6 +8,17 @@ Business security encompasses both digital and physical measures to protect asse
 Physical security, on the other hand, aims to protect the physical premises, equipment, and personnel from threats like theft, vandalism, or unauthorized entry. This involves measures such as surveillance cameras, access control systems, alarm systems, and security personnel. Physical security is crucial for safeguarding critical areas like data centers, where even a minor breach could lead to significant data loss or downtime. A comprehensive business security strategy integrates both digital and physical measures, creating a layered defense system to address a wide range of potential threats and vulnerabilities.
 
 #
+### AES Laws, Backdoors and Private Encryption
+
+![Private_Encryption](https://github.com/user-attachments/assets/529dc097-de49-4fe9-ba32-2626ac767797)
+
+AES was developed by the National Institute of Standards and Technology (NIST), a U.S. government agency, which was adopted as the U.S. federal standard for symmetric block encryption in 2001. AES is one of the most widely used cryptographic algorithms today. Concerns about potential backdoors in encryption algorithms developed by NIST are valid but unproven. Both the FBI and CIA have the potential means to force entry and break certain versions of AES encryption under specific circumstances, which would successfully decrypt modern-day 192-bit or 256-bit AES data.
+
+In many jurisdictions, refusing to comply with a lawful court order demanding access to encrypted data could result in criminal charges such as obstruction of justice, contempt of court, or violation of electronic surveillance laws. It's important to note that laws and regulations regarding encryption keys vary significantly across different countries, states, and jurisdictions. The specific consequences of refusing to disclose them will depend on the applicable legal framework in each case.
+
+Sourceduty can but hasn't developed it's own private encryption algorithm. Other companies might develop their own private encryption as well.
+
+#
 ### Recorded Disputes
 
 ![Security Cam](https://github.com/user-attachments/assets/93b2173c-8989-4704-997a-1983a5bf9483)
