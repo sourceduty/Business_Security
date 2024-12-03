@@ -62,7 +62,7 @@ In this context, the approach to privacy involves employing advanced encryption 
 
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
-[Encrpyton](https://github.com/sourceduty/Encryption)
+[Encryption](https://github.com/sourceduty/Encryption)
 <br>
 [Security Automation](https://github.com/sourceduty/Security_Automation)
 <br>
