@@ -59,7 +59,7 @@ In this context, the approach to privacy involves employing advanced encryption 
 
 #
 
-Alex: "*Security is being smart.*"
+> Alex: "*Security is being smart.*"
 
 #
 ### Related Links
